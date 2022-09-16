@@ -20,3 +20,6 @@ country_code int,
 nationality varchar(20) not null,
 nri_resident varchar(8) not null
 );
+insert into credentials(first_name,last_name,department,employee_id,primary_number,secondary_number,official_mailid,secondary_mailid,door_no,street_name,
+city,state,country,pincode,country_code,nationality,nri_resident)values("atchaya","raja","ai",09,8667230378,6382353773,"727721euai009@skcet.ac.in","atchayaraja28@gmail.com",19,"manickam nagar","pudukkottai",
+"tamil nadu","india",622003,91,"indian","resident");
